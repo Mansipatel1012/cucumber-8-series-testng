@@ -48,3 +48,6 @@
 2023-08-27 15:08:885 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (2510987782e00d8d436c51081b110f47)] -> link text: Log in]
 2023-08-27 15:08:941 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (2510987782e00d8d436c51081b110f47)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
 2023-08-27 15:08:614 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (0cd04a747eb7910b7461261952d1ba48)] -> link text: Log in]
+2023-08-27 15:08:411 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (5f81c3ee6f451a2a4fb50e939ca2efd6)] -> link text: Log in]
+2023-08-27 15:08:454 INFO  LoginPage :44 - Getting text from : [[ChromeDriver: chrome on windows (5f81c3ee6f451a2a4fb50e939ca2efd6)] -> xpath: //h1[contains(text(),'Welcome, Please Sign In!')]]
+2023-08-27 15:08:887 INFO  HomePage :37 - Clicking on login link : [[ChromeDriver: chrome on windows (27fbda6baeb27a847ed55d5576465e04)] -> link text: Log in]

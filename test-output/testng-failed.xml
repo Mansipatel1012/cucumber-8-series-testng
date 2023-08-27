@@ -6,8 +6,8 @@
       <class name="com.nopcommerce.demo.runner.RunCuke">
         <methods>
           <include name="setUpClass"/>
-          <include name="tearDownClass"/>
           <include name="runScenario" invocation-numbers="1"/>
+          <include name="tearDownClass"/>
         </methods>
       </class> <!-- com.nopcommerce.demo.runner.RunCuke -->
     </classes>
